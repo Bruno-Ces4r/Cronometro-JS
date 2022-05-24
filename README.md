@@ -2,4 +2,5 @@
 Cronômetro criado com uso de Js, Html e Css
 
 <br>
-![cronometro](https://user-images.githubusercontent.com/102826415/170051690-7474ac58-7f97-4fe3-b234-c8a8471a349e.PNG)
+
+![cronometro](https://user-images.githubusercontent.com/102826415/170052102-9beddaf1-5f44-493f-a1e3-50709a2c8308.PNG)
