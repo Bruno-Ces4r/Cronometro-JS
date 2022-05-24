@@ -1,0 +1,40 @@
+body{
+    background-color: blue;
+    margin: 0;
+    padding: 0;
+}
+
+.div-one{
+    background-color: white;
+    max-width: 700px;
+    margin: 0 auto;
+    margin-top: 100px;
+    border-radius: 30px;
+}
+
+.div-one h1{
+    margin-bottom: 0px;
+    font-size: 40px;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+
+
+.relogio{
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 48px;
+    padding-left: 70px;
+}
+
+.div-tres{
+    padding-left: 70px;
+    padding-bottom: 10px;
+}
+
+.corbotoes{
+    color: red;
+}
+.pausado{
+    color: red;
+}
